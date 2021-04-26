@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ccd4ac46-7b7a-44a1-93e6-483aebf3fd33.ws-eu01.gitpod.io",
+    "address": "https://teal-minnow-g2qkkxl7.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -214,7 +214,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -225,7 +225,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -236,7 +236,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
@@ -247,7 +247,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",
@@ -258,7 +258,7 @@
         {
             "slug": "11-Do-while",
             "title": "11-Do-while",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Do-while",
             "translations": [
                 "es",
